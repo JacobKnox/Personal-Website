@@ -1,0 +1,57 @@
+body{
+  background-color:lightgrey;
+}
+#footer{
+  background-color:black;
+  color: white;
+}
+#header{
+  background-color:black;
+  color: white;
+}
+.link{
+  text-decoration: none;
+}
+.button{
+  background-color:teal;
+  border-radius: 8px;
+  color: white;
+}
+.button:hover{
+  background-color: maroon;
+  opacity: 0.8;
+  cursor: pointer;
+}
+#fb{
+  background-color:#3b5998;
+}
+#twit{
+  background-color:#00ACED;
+}
+#insta{
+  background-color:#FB3958;
+}
+#pint{
+  background-color:#C8232C;
+}
+#linkedin{
+  background-color: #0077B5;
+}
+.sm{
+  color:white;
+  border-radius:64px;
+}
+.sm:hover{
+  opacity:0.7;
+  cursor: pointer;
+}
+h1{
+  text-decoration: underline;
+  text-decoration-style: solid;
+  text-decoration-color: black;
+}
+h2{
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: black;
+}
