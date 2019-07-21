@@ -55,3 +55,22 @@ h2{
   text-decoration-style: wavy;
   text-decoration-color: black;
 }
+.projectdata{
+  vertical-align: top;
+}
+.contactrow, #contacttable{
+  border-color: aqua;
+  border-style: inset;
+}
+.contactrow{
+  vertical-align: center;
+}
+.contactdataleft, .contactdataright{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-color: maroon;
+  border-style: outset;
+  vertical-align: center;
+}
